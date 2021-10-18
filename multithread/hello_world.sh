@@ -1,7 +1,7 @@
 #!/bin/bash
-for number in {1..20};
+for number in {1..30};
 do
   echo "hello world $number"
-  sleep 1;
+  sleep 2;
 done
 exit 0
